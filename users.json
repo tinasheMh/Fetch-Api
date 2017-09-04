@@ -1,0 +1,22 @@
+[
+    {
+        "id":1,
+        "name":"Rick",
+        "email":"rick@gmail.com"
+    },
+    {
+        "id":2,
+        "name":"Chinotimba",
+        "email":"chinoz@zanupf.co.zw"
+    },
+    {
+        "id":3,
+        "name":"Disgrace",
+        "email":"gire@huremail.com"
+    },
+    {
+        "id":4,
+        "name":"Peter",
+        "email":"pndlovu@gmail.com"
+    }
+]
